@@ -27,5 +27,14 @@ matplotlib.pyplot
 
 File Descriptions
 Olympic_Dataset_Study.ipynb with complete analysis, answers to the questions, explanations and visualisations
-
 Summer_Olympic.csv Original dataset in csv format
+
+Summary:
+This project is about setup and to start working with Data Science using Python
+
+Acknowledgement:
+Thanks to Udacity Data Scientist Nanodegree program.
+
+References
+Olympic game dataset : https://www.kaggle.com/datasets/the-guardian/olympic-games
+Github: https://github.com/saurav29singh/Udacity_Project
