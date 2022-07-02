@@ -1,12 +1,12 @@
-# **Data Scientist Nanodregee**
+# **Data Scientist Nanodegree**
 ## Write a Data Science blog post
 
 ### Motivation
 
-This Blog post as part of Udacity Data Scientist Nanodregee program
+This Blog post as part of Udacity Data Scientist Nanodegree program
 https://medium.com/@saurav29singh/explore-the-world-of-data-science-using-python-dce102bd036f
 
-I'm using Summer Olympic Dataset for this project. The dataset describes medals won by athletes in Olympic games.  The orijinal dataset can be found here: https://www.kaggle.com/datasets/the-guardian/olympic-games
+I'm using Summer Olympic Dataset for this project. The dataset describes medals won by athletes in Olympic games.  The original dataset can be found here: https://www.kaggle.com/datasets/the-guardian/olympic-games
 
 This project focuses on answering following questions: 
 1. How to start with Data Science using Python?
