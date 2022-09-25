@@ -47,7 +47,7 @@ matplotlib.pyplot
 ### File Structure
 ```
 - Olympic_Dataset_Study.ipynb     #with complete analysis, answers to the questions, explanations and visualisations
-- Olympic_Games.zip               #Unzip Olympic_Games.csv to get Original dataset in csv format
+- Olympic_Games.zip               #Unzip Olympic_Games.zip to get Original dataset in csv format
 - README.md
 ```
 
