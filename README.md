@@ -1,20 +1,37 @@
 # **Data Scientist Nanodegree**
 ## Write a Data Science blog post
 
-### Motivation
+## Table of Contents
+1. [Introduction](#Introduction)
+2. [Dependencies](#Dependencies)
+3. [File Structure](#FileStructure)
+4. [Acknowledgement](#Acknowledgement)
+5. [References](#References)
 
-This Blog post as part of Udacity Data Scientist Nanodegree program
-https://medium.com/@saurav29singh/explore-the-world-of-data-science-using-python-dce102bd036f
+
+<a name="Introduction"></a>
+### Introduction
+This project is about setup and to start working with Data Science using Python.
+We are writing this blog post as part of Udacity Data Scientist Nanodegree program.
+
+The blog is written on the following [link](https://medium.com/@saurav29singh/explore-the-world-of-data-science-using-python-dce102bd036f)
+
 
 I'm using Summer Olympic Dataset for this project. The dataset describes medals won by athletes in Olympic games.  The original dataset can be found here: https://www.kaggle.com/datasets/the-guardian/olympic-games
 
-This project focuses on answering following questions: 
-1. How to start with Data Science using Python?
-2. Which commands need to use to start working with Python?
-3. From where we can get Dataset for analysis?
-4. How to work on Dataset and to create visualization of Data?
-5. How to handle and share code?
+This project focuses on answering following questions:
+```
+1. Which country has won maximum medals?
+2. What was the Gender ratio of athletics during summer Olympic games?
+3. Find out in which year minimum and maximum medal won by athletes?
+4. Find out Women participation over the year?
+5. In which sports India has won maximum medals?
+6. Find out count medals by gender?
+7. Find out in which sports women has won maximum gold?
+```
 
+<a name="Dependencies"></a>
+### Dependencies
 
 I'm using PyCharm IDE with Python3. Here are the python packages:
 
@@ -24,17 +41,21 @@ Jupyter
 Seaborn
 matplotlib.pyplot
 
+<a name="FileStructure"></a>
+### File Structure
+```
+- Olympic_Dataset_Study.ipynb     #with complete analysis, answers to the questions, explanations and visualisations
+- Summer_Olympic.csv              #Original dataset in csv format
+- README.md
+```
 
-File Descriptions
-Olympic_Dataset_Study.ipynb with complete analysis, answers to the questions, explanations and visualisations
-Summer_Olympic.csv Original dataset in csv format
 
-Summary:
-This project is about setup and to start working with Data Science using Python
+<a name="Acknowledgement"></a>
+## Acknowledgements
+Thanks to [Udacity](https://www.udacity.com/) Data Scientist Nanodegree program.
 
-Acknowledgement:
-Thanks to Udacity Data Scientist Nanodegree program.
+<a name="References"></a>
+## References
 
-References
 Olympic game dataset : https://www.kaggle.com/datasets/the-guardian/olympic-games
-Github: https://github.com/saurav29singh/Udacity_Project
+
