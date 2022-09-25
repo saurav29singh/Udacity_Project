@@ -17,7 +17,7 @@ We are writing this blog post as part of Udacity Data Scientist Nanodegree progr
 The blog is written on the following [link](https://medium.com/@saurav29singh/explore-the-world-of-data-science-using-python-dce102bd036f)
 
 
-I'm using Olympic Dataset for this project. The dataset describes medals won by athletes in Olympic games.  The original dataset can be found here: https://www.kaggle.com/datasets/the-guardian/olympic-games
+I'm using Olympic Dataset for this project. The dataset describes medals won by athletes in Olympic games.  The original dataset can be found here: [https://www.kaggle.com/datasets/the-guardian/olympic-games](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results)
 
 This project focuses on answering following questions:
 ```
