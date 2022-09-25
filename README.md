@@ -36,12 +36,13 @@ This project focuses on answering following questions:
 ### Dependencies
 
 I'm using PyCharm IDE with Python3. Here are the python packages:
-
-Numpy
-Pandas
-Jupyter
-Seaborn
-matplotlib.pyplot
+```
+- Numpy
+- Pandas
+- Jupyter
+- Seaborn
+- matplotlib.pyplot
+```
 
 <a name="FileStructure"></a>
 ### File Structure
